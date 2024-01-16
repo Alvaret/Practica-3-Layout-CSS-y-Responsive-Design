@@ -34,12 +34,17 @@
   text-decoration: underline;
 }
 
+/* ID */
 
+#discord {
+  color: rgb(222, 35, 51);
+  transition: color 0.3s ease-in-out;
 
+}
 
-
-
-
+#discord:hover {
+  color: rgb(0, 0, 0);
+}
 
 
 
